@@ -19,8 +19,8 @@ Construir un mini-módulo de calendario que:
 
 ## 🚀 Demo en Vivo
 
-- **URL del Demo**: [https://orlidun.vercel.app/](https://orlidun.vercel.app/)
-- **Repositorio**: [https://github.com/Orliluq/docguia-orli](https://github.com/Orliluq/docguia-orli)
+- **URL del Demo**: [https://docguia-orli.vercel.app/](https://docguia-orli.vercel.app/)
+- **Repositorio**: [https://github.com/Orliluq/docguia-orli.git](https://github.com/Orliluq/docguia-orli.git)
 
 ---
 
@@ -665,7 +665,7 @@ Gracias al equipo de DocGuía por este challenge tan bien diseñado. Fue un exce
 Frontend Developer - Challenge Candidate
 
 - GitHub: [@Orliluq](https://github.com/Orliluq)
-- Demo: [https://vercel.app/](https://vercel.app/)
+- Demo: [https://docguia-orli.vercel.app/](https://docguia-orli.vercel.app/)
 
 ---
 
