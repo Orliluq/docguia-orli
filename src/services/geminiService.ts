@@ -1,7 +1,9 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { ParsedAppointmentData } from "../types";
 
-const genAI = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const genAI = new GoogleGenAI({ 
+  apiKey: import.meta.env.VITE_GEMINI_API_KEY || 'demo-key'
+});
 
 const SYSTEM_INSTRUCTION = `
 You are an expert medical receptionist AI. Your goal is to extract structured appointment data from natural language voice transcripts.
