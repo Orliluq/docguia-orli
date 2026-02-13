@@ -1,0 +1,51 @@
+{
+  "name": "DocGuía Interview Test",
+  "version": "1.0.0",
+  "description": "Calendario especializado para profesionales de salud con creación de citas por voz usando IA (Gemini). Challenge técnico que replica el diseño existente de DocGuía e implementa una experiencia voice-first intuitiva.",
+  "author": {
+    "name": "Orli",
+    "email": "orlibet@gmail.com",
+    "role": "Full Stack Developer - Challenge"
+  },
+  "challenge": {
+    "company": "DocGuía",
+    "type": "Technical Interview Test",
+    "date": "2026-02-10",
+    "objectives": [
+      "Emular fielmente el diseño del calendario existente",
+      "Implementar creación de citas por voz (voice-first)",
+      "Manejar ambigüedades con UX elegante",
+      "Demostrar criterio técnico y de producto"
+    ]
+  },
+  "technologies": {
+    "framework": "React 19 + TypeScript",
+    "styling": "Tailwind CSS v4",
+    "ai": "Google Gemini API",
+    "build": "Vite",
+    "deployment": "Vercel"
+  },
+  "features": [
+    "Calendario mensual interactivo",
+    "Creación de citas por voz con transcripción en tiempo real",
+    "Interpretación inteligente de lenguaje natural",
+    "Manejo de ambigüedades con confirmación estructurada",
+    "UI/UX replicada del diseño original de DocGuía",
+    "Responsive design para todos los dispositivos"
+  ],
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "keywords": [
+    "calendar",
+    "voice-recognition",
+    "healthcare",
+    "appointments",
+    "gemini-ai",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "voice-first",
+    "medical-scheduling"
+  ]
+}
