@@ -662,11 +662,10 @@ Gracias al equipo de DocGuía por este challenge tan bien diseñado. Fue un exce
 ## 👤 Autor
 
 **Orli**  
-Frontend Developer - Challenge Candidate
+Full Stack Developer - Challenge Candidate
 
 - GitHub: [@Orliluq](https://github.com/Orliluq)
-- Demo: [https://docguia-orli.vercel.app/](https://docguia-orli.vercel.app/)
-
+- orli_.app: [orlidun](https://orlidun.vercel.app/)
 ---
 
 ## 📄 Licencia
